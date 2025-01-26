@@ -13,7 +13,7 @@ The game ends when all cards are flipped face-up.
 
 ## The randomly color initalization
 
-![RandomColorInitalization](Images/image.png)
+![RandomColorInitalization](Images/image1.png)
 
 
 ## How to play ?
